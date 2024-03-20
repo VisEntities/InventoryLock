@@ -14,7 +14,7 @@ This plugin allows you to lock or unlock players' inventories automatically upon
 
 ## Permissions
 
-- `inventorylock.admin` - Grants the ability to use the `inv.lock` command to lock or unlock inventories for other players.
+- `inventorylock.admin` - Allows to use the `inv.lock` command to lock or unlock inventories for other players.
 - `inventorylock.bypass` - Allows to be unaffected by automatic inventory locking or the `inv.lock` command.
 
 -----------------------------
