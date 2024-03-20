@@ -13,7 +13,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("Inventory Lock", "VisEntities", "2.0.0")]
-    [Description("Locks player inventories when joining the server or upon entering certain zones.")]
+    [Description("Locks player inventory when joining the server or upon entering certain zones.")]
     public class InventoryLock : RustPlugin
     {
         #region 3rd Party Dependencies
@@ -30,8 +30,8 @@ namespace Oxide.Plugins
 
         public enum ContainerType
         {
-            Clothing,
             Belt,
+            Clothing,
             Main,
             All
         }
