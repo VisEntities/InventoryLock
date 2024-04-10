@@ -21,7 +21,7 @@ This plugin allows you to lock or unlock players' inventories automatically upon
 
 ## Console Commands
 
-- `inv.lock <PlayerId or PlayerName> <ContainerType> <True or False>` - Locks or unlocks specified inventory container types for a given player. 
+- `inv.lock <PlayerId or PlayerName> <ContainerType> <True or False>` - Locks or unlocks the specified inventory container type for a given player. 
 
 -----------------------------
 
